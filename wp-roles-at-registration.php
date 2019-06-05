@@ -9,7 +9,6 @@ Author URI: https://www.nettantra.com/wordpress/?utm_src=wp-roles-at-registratio
 License: GPLv2 or later
 */
 
-
 class WPRolesAtRegistration {
   var $wp_selected_rar_roles;
   var $wp_rar_role_label;
