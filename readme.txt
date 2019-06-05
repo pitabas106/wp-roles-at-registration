@@ -44,7 +44,6 @@ Go to wp-admin >> Settings >> WP Roles at Registration and choose the roles whic
 
 1. screenshot-1.png
 
-
 == Changelog ==
 
 = 0.23 =
